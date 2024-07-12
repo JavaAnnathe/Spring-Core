@@ -1,0 +1,48 @@
+Framework is used for  Faster application development
+
+Spring is  a container based framework
+Devloper writes Java beans
+
+Developer needs to inform the spring that what Java beans he or she has written
+
+Spring container manages the life cycle of Java beans
+
+Configuring beans means a way to inform spring container about the beans
+
+Types of configuration
+                 XML based
+	annotation based
+	Java based 
+
+Objective of Spring is to make the application development easy.
+Spring achieves this objectives using the below techniques.
+1.Dependeny Injection
+2.Aspect Oriented Programming
+3.JDBCTemplate to replace low level JDBC coding
+
+Maven --build and dependency management tool
+Gradle
+Repositories
+
+1.Local repository
+2.Remte repository
+3.Central repostory
+
+to inform maven about your needs--ie jar files use a xml file
+POM.xml
+
+<dependency>
+
+</dependency>
+
+
+Use https://mvnrepository.com/ to find the dependency entries for a jar file
+
+
+
+
+
+
+
+
+
