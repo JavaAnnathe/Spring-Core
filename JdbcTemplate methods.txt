@@ -1,0 +1,8 @@
+JdbcTemplate
+
+1.query()---selecting more than one records
+
+2.queryForObject()--selecting a record
+
+3.update--insert,update, delete
+
